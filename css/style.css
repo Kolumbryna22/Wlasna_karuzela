@@ -1,0 +1,30 @@
+#carousel {
+  width: 400px;
+  height: 320px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+ul {
+  width: 2000px;
+  list-style-type: none;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-start: 0;
+}
+
+li {
+  list-style-type: none;
+  width: 400px;
+  height: 300px;
+  float: right;
+}
+
+/*# sourceMappingURL=style.css.map */
